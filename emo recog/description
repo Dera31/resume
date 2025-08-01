@@ -1,0 +1,8 @@
+Description:
+Emotion recognition from text involves analyzing sentences or messages to classify them into emotional categories such as joy, sadness, anger, fear, etc.
+In this project, we build a text classification model using TF-IDF and Logistic Regression to detect emotions in short text samples.
+
+😄 What This Project Demonstrates:
+Classifies short text into emotional categories
+Uses TF-IDF features + Logistic Regression
+Evaluates with precision, recall, and confusion matrix
